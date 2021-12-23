@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ex_06/src"/>
+	<classpathentry kind="src" path="ex_08/src"/>
+	<classpathentry kind="src" path="ex_10/src"/>
+	<classpathentry kind="src" path="ex_14/src"/>
+	<classpathentry kind="src" path="ex_19/src"/>
+	<classpathentry kind="src" path="ex_21/src"/>
+	<classpathentry kind="src" path="ex_24/src"/>
+	<classpathentry kind="src" path="ex_26/src"/>
+	<classpathentry kind="src" path="ex_30/src"/>
+	<classpathentry kind="src" path="ex_32/src"/>
+	<classpathentry kind="src" path="ex_34/src"/>
+	<classpathentry kind="src" path="ex_35/src"/>
+	<classpathentry kind="src" path="ex_36/src"/>
+	<classpathentry kind="src" path="ex_40/src"/>
+	<classpathentry kind="src" path="ex_44/src"/>
+	<classpathentry kind="src" path="ex_45/src"/>
+	<classpathentry kind="src" path="ex_46/src"/>
+	<classpathentry kind="src" path="ex_47/src"/>
+	<classpathentry kind="src" path="ex_48/src"/>
+	<classpathentry kind="src" path="ex_50/src"/>
+	<classpathentry kind="src" path="ex_52/src"/>
+	<classpathentry kind="src" path="ex_55/src"/>
+	<classpathentry kind="output" path="ex_06/bin"/>
+</classpath>
